@@ -1,0 +1,40 @@
+
+body{
+    background: rgb(0,188,216);
+    background: linear-gradient(to bottom, rgba(0,188,216,0.1755713027398459) 0%, rgba(185,20,71,0.279212759322479) 35%, rgba(255,0,157,0) 100%);
+    background-repeat: no-repeat;
+}
+    
+.maindiv{
+text-align: center;
+}
+
+.input{
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgb(181, 236, 236);
+    
+}
+.submit{
+    padding: 10px;
+    border-radius: 20px;
+    width: 10%;
+    background-color: aqua;
+}
+.data-container{
+    border: 2px solid black;
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.data-wrapper{
+    
+    
+    border: 1px solid black;
+    background-color: rgb(250, 157, 240);
+    margin: 10px;
+    border-radius: 20px;
+    padding: 20px;
+    
+}
